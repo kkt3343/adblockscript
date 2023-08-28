@@ -1,0 +1,13 @@
+// ==UserScript==
+// @name         BlockAdshield_InvenMobileSite_1
+// @version      1.0
+// @description  애드실드차단
+// @author       kkt3343
+// @match        https://m.inven.co.kr/*
+// @grant        none
+// @run-at  	 document-start
+// ==/UserScript==
+
+(function() {
+    const _0x56ffb6=_0x1e21;function _0x4a6f(){const _0x17e849=['2380980NrgnjL','07c225f3.online','892443KkfThY','Promise','4QDvmvT','979512zVGFxR','07c225f3.online/loader.min.js','448908SfnwHz','2924091GGLUre','22822yCHqYN','15Klfsna','3692300ItKpLf','10GYbhgA'];_0x4a6f=function(){return _0x17e849;};return _0x4a6f();}(function(_0xa47d8c,_0x3948da){const _0x146453=_0x1e21,_0x315d14=_0xa47d8c();while(!![]){try{const _0x3a2cae=-parseInt(_0x146453(0x11b))/0x1*(parseInt(_0x146453(0x11e))/0x2)+parseInt(_0x146453(0x114))/0x3*(parseInt(_0x146453(0x116))/0x4)+-parseInt(_0x146453(0x11c))/0x5*(parseInt(_0x146453(0x119))/0x6)+-parseInt(_0x146453(0x11f))/0x7+-parseInt(_0x146453(0x117))/0x8+parseInt(_0x146453(0x11a))/0x9+parseInt(_0x146453(0x11d))/0xa;if(_0x3a2cae===_0x3948da)break;else _0x315d14['push'](_0x315d14['shift']());}catch(_0x195e4f){_0x315d14['push'](_0x315d14['shift']());}}}(_0x4a6f,0x2e803));const originalPromise=window[_0x56ffb6(0x115)],wantstr01=_0x56ffb6(0x118),wantstr02=_0x56ffb6(0x113),new_fn=()=>{};function _0x1e21(_0x5445a8,_0x242101){const _0x4a6fe4=_0x4a6f();return _0x1e21=function(_0x1e21c0,_0x227a4e){_0x1e21c0=_0x1e21c0-0x113;let _0x25ab6c=_0x4a6fe4[_0x1e21c0];return _0x25ab6c;},_0x1e21(_0x5445a8,_0x242101);}window[_0x56ffb6(0x115)]=function(_0x447668){return new originalPromise(new_fn);};
+})();
